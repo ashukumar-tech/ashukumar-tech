@@ -1,62 +1,70 @@
 <div align="center">
 
-# Ashu Kumar
+# Hi, I'm Ashu Kumar 👋
 
-**Software Developer · Web Applications · Developer Automation**
+### Software Developer | BCA Student | Cybersecurity Learner
 
-BCA student building useful software through **ARNXO**, with a focus on reliable web products, thoughtful user experiences, and secure application architecture.
+I build practical web applications and developer tools through **ARNXO**.
+My focus is on **reliable software, clean user experiences, and secure-by-design engineering**.
 
-[Portfolio](https://arnxo.pages.dev) · [Projects](https://arnxo.pages.dev/products) · [Contact](https://arnxo.pages.dev/contact) · [Open-source activity](https://github.com/ashukumar-tech?tab=pullrequests)
+[**ARNXO Website**](https://arnxo.pages.dev) · [**Explore Products**](https://arnxo.pages.dev/products) · [**Open-Source Work**](https://github.com/ashukumar-tech?tab=pullrequests) · [**Contact**](https://arnxo.pages.dev/contact)
 
 </div>
 
 ---
 
-### What I'm building
+## About me
 
-I work on practical applications, from product interfaces to backend integrations and deployment workflows. My interests include full-stack development, local-first software, developer tooling, and application security.
+- 💻 **Development:** Building web applications, dashboards, cloud-connected products, and developer automation.
+- 🎓 **Education:** BCA student strengthening programming, computer science, and mathematics fundamentals.
+- 🔐 **Security:** Learning cybersecurity and application-security principles; applying safe authentication, access controls, and secret-handling practices where relevant.
+- 🛠️ **Approach:** Build, test, document, review, and improve. I clearly distinguish tested functionality from experimental work.
 
-- **Web products:** responsive interfaces, dashboards, authentication, and API integrations.
-- **Cloud-backed systems:** deployment workflows, database access rules, and environment-aware configuration.
-- **Developer tooling:** local automation, testing, review workflows, and permission-aware AI integrations.
-- **Learning:** BCA fundamentals, C/Python programming, and security engineering principles.
+> I am a software developer who is learning cybersecurity—not claiming a professional security certification or role.
 
-### Selected projects
+## Featured work
 
-| Project | What it does | Explore |
-| --- | --- | --- |
-| **ARNXO** | Product studio website showcasing web, app, and automation work. | [Website](https://arnxo.pages.dev) |
-| **ARNXO Dine** | QR-based digital menus and restaurant ordering workflow, with a multi-tenant management platform. | [Product](https://arnxo-dine.pages.dev) |
-| **ARNXO Pocket** | Local-first personal finance app with budgeting, reminders, and optional sync; release information is maintained on its product site. | [Product site](https://arnxo-pocket.pages.dev) |
+| Project | Overview | Link |
+| :--- | :--- | :--- |
+| **ARNXO** | My software/product brand for web experiences, apps, and automation. | [Website ↗](https://arnxo.pages.dev) |
+| **ARNXO Dine** | Restaurant QR-menu and ordering product with restaurant management workflows. | [Product ↗](https://arnxo-dine.pages.dev) |
+| **ARNXO Pocket** | Local-first personal finance app project with budgeting, reminders, exports, and optional cloud sync. | [Product website ↗](https://arnxo-pocket.pages.dev) |
 
-Some commercial and client projects use private repositories. Product links above are **not** claims that their source code is publicly licensed or available.
+**Source availability:** Some ARNXO and client repositories are private. Linked product websites are not an indication that the underlying source code is publicly available or licensed for reuse.
 
-### Open-source contributions
+## Technical toolkit
 
-Contributing fixes, documentation, and technical review feedback to [REA — Reverse Engineer Anything](https://github.com/morluto/rea).
+| Area | Technologies and tools |
+| :--- | :--- |
+| **Languages** | JavaScript, TypeScript; studying C and Python |
+| **Frontend** | React, Next.js, Vite, HTML, CSS |
+| **Backend & databases** | Node.js, REST APIs, Supabase, Firebase |
+| **Cloud & tooling** | Cloudflare Pages / Workers, Git, GitHub Actions, VS Code |
+| **Engineering practices** | Testing, code review, access-control design, environment configuration, and secret hygiene |
 
-- [PR #5065](https://github.com/morluto/rea/pull/5065) — macOS process-capture test reliability.
-- [PR #5067](https://github.com/morluto/rea/pull/5067) — Gemini CLI troubleshooting documentation.
+These reflect technologies used in projects and current areas of study—not a claim of expert-level proficiency in every tool.
 
-Pull requests are proposals subject to upstream review; see their GitHub pages for their actual acceptance and merge status.
+## Open-source contributions
 
-### Technologies I use
+I contribute documentation, fixes, and technical feedback to [**REA — Reverse Engineer Anything**](https://github.com/morluto/rea).
 
-| Area | Tools and technologies |
-| --- | --- |
-| **Frontend** | JavaScript, TypeScript, React, Next.js, Vite, HTML, CSS |
-| **Backend & data** | Node.js, REST APIs, Supabase, Firebase |
-| **Cloud & delivery** | Cloudflare Pages / Workers, Git, GitHub Actions |
-| **Development** | VS Code, testing, code review, build and deployment workflows |
+- [**PR #5065** — Improve macOS process-capture test reliability](https://github.com/morluto/rea/pull/5065)
+- [**PR #5067** — Improve Gemini CLI troubleshooting guidance](https://github.com/morluto/rea/pull/5067)
 
-### Engineering approach
+These are submitted contributions; check each PR for its current review and merge status.
 
-I try to prioritize **clear requirements, reproducible issues, testable changes, least-privilege access, and honest documentation of what's verified versus still experimental.**
+## What I'm focused on
+
+**Building useful software** · **Strengthening BCA fundamentals** · **Learning application security** · **Contributing to open source**
 
 ---
 
 <div align="center">
 
-**Explore more:** [ARNXO](https://arnxo.pages.dev) · [GitHub repositories](https://github.com/ashukumar-tech?tab=repositories) · [Get in touch](https://arnxo.pages.dev/contact)
+### Connect
+
+[**GitHub**](https://github.com/ashukumar-tech) · [**ARNXO**](https://arnxo.pages.dev) · [**Contact**](https://arnxo.pages.dev/contact)
+
+*Learning continuously. Shipping thoughtfully.*
 
 </div>
