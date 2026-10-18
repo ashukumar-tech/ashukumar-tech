@@ -1,74 +1,62 @@
+<div align="center">
+
 # Ashu Kumar
 
-Cybersecurity-focused Developer — building secure web systems, developer tooling, and ARNXO products.
+**Software Developer · Web Applications · Developer Automation**
 
-I am a BCA student and developer working at the intersection of cybersecurity, cloud-backed web applications, and AI-assisted engineering. I build practical projects for web and backend systems, developer automation, and the ARNXO product family while studying security operations and Microsoft security concepts.
+BCA student building useful software through **ARNXO**, with a focus on reliable web products, thoughtful user experiences, and secure application architecture.
 
----
+[Portfolio](https://arnxo.pages.dev) · [Projects](https://arnxo.pages.dev/products) · [Contact](https://arnxo.pages.dev/contact) · [Open-source activity](https://github.com/ashuk422993-dotcom?tab=pullrequests)
 
-## About
-- BCA student and developer with a security-first engineering approach.
-- Building ARNXO: web products, dashboards, and developer tools.
-- Actively studying security operations, SOC workflows, and Microsoft SC-200 concepts (learning/preparation — not a certification).
+</div>
 
 ---
 
-## Current focus
-- Security operations fundamentals (SIEM, SOAR, alert triage, investigation)
-- ARNXO product development and safe cloud migration patterns
-- Secure web architecture, authentication & authorization
-- AI-assisted developer tooling and automation
-- Cloud and backend systems, CI/CD, and observability
+### What I'm building
+
+I work on practical applications, from product interfaces to backend integrations and deployment workflows. My interests include full-stack development, local-first software, developer tooling, and application security.
+
+- **Web products:** responsive interfaces, dashboards, authentication, and API integrations.
+- **Cloud-backed systems:** deployment workflows, database access rules, and environment-aware configuration.
+- **Developer tooling:** local automation, testing, review workflows, and permission-aware AI integrations.
+- **Learning:** BCA fundamentals, C/Python programming, and security engineering principles.
+
+### Selected projects
+
+| Project | What it does | Explore |
+| --- | --- | --- |
+| **ARNXO** | Product studio website showcasing web, app, and automation work. | [Website](https://arnxo.pages.dev) |
+| **ARNXO Dine** | QR-based digital menus and restaurant ordering workflow, with a multi-tenant management platform. | [Product](https://arnxo-dine.pages.dev) |
+| **ARNXO Pocket** | Local-first personal finance app with budgeting, reminders, and optional sync; release information is maintained on its product site. | [Product site](https://arnxo-pocket.pages.dev) |
+
+Some commercial and client projects use private repositories. Product links above are **not** claims that their source code is publicly licensed or available.
+
+### Open-source contributions
+
+Contributing fixes, documentation, and technical review feedback to [REA — Reverse Engineer Anything](https://github.com/morluto/rea).
+
+- [PR #5065](https://github.com/morluto/rea/pull/5065) — macOS process-capture test reliability.
+- [PR #5067](https://github.com/morluto/rea/pull/5067) — Gemini CLI troubleshooting documentation.
+
+Pull requests are proposals subject to upstream review; see their GitHub pages for their actual acceptance and merge status.
+
+### Technologies I use
+
+| Area | Tools and technologies |
+| --- | --- |
+| **Frontend** | JavaScript, TypeScript, React, Next.js, Vite, HTML, CSS |
+| **Backend & data** | Node.js, REST APIs, Supabase, Firebase |
+| **Cloud & delivery** | Cloudflare Pages / Workers, Git, GitHub Actions |
+| **Development** | VS Code, testing, code review, build and deployment workflows |
+
+### Engineering approach
+
+I try to prioritize **clear requirements, reproducible issues, testable changes, least-privilege access, and honest documentation of what's verified versus still experimental.**
 
 ---
 
-## Tech stack (verified / conservative)
-- Languages & Web: JavaScript, TypeScript, React, Next.js
-- Backend & Runtimes: Node.js, REST APIs
-- Cloud & Deployment: Cloudflare Pages, Cloudflare Workers
-- Datastores & Auth: Supabase / Firebase (project-specific — see repo READMEs)
-- Security & DevOps: authentication patterns, least-privilege design, dependency auditing, secret scanning
-- Tools: Git, GitHub, VS Code, GitHub Actions, AI-assisted development workflows (experimental)
+<div align="center">
 
-(Only technologies listed are those verified in public project documentation or issues. I can re-audit and expand this list if you confirm additional public repos.)
+**Explore more:** [ARNXO](https://arnxo.pages.dev) · [GitHub repositories](https://github.com/ashuk422993-dotcom?tab=repositories) · [Get in touch](https://arnxo.pages.dev/contact)
 
----
-
-## Featured projects
-
-- ARNXO  
-  What it does: Portfolio and product site for ARNXO, plus project demos.  
-  Core tech: Next.js, React, TypeScript, Cloudflare Pages / Workers, Supabase (as documented).  
-  Status: Active (public repo inspected).  
-  Site / repo: https://arnxo.pages.dev · github.com/ashuk422993-dotcom/arnxo
-
-- ARNXO Agent Bridge (experimental)  
-  What it does: Experimental developer-agent bridge for local AI-assisted workflows (design and v0.1 specification documented).  
-  Core tech (documented): TypeScript / Node-oriented design; Codex integration concepts.  
-  Status: Experimental / active design (documented in repo issues).
-
-- Additional ARNXO projects (arnxo-pocket, arnxo-dine, etc.)  
-  Status: Pending verification — please confirm repo visibility so I can add concise, factual entries.
-
----
-
-## Cybersecurity learning path
-Developing foundational skills in security operations and SOC concepts: SIEM, SOAR, Microsoft Defender/Sentinel concepts, alert triage, investigation, threat hunting, identity and least-privilege principles. Studying materials related to Microsoft SC-200 (preparation/learning).
-
----
-
-## Engineering interests
-- Secure application architecture and authentication flows
-- Cloud security and safe migration patterns
-- Developer automation and AI-assisted workflows
-- Agent infrastructure for local, permissioned developer tooling
-- Observability, auditing, and secure CI
-
----
-
-## Links
-- Personal site: https://ashu-kumar.pages.dev  
-- ARNXO: https://arnxo.pages.dev  
-- GitHub: https://github.com/ashuk422993-dotcom
-
-(If you want a public contact email displayed, tell me which address to show. I recommend using a dedicated professional email rather than exposing a phone number.)
+</div>
