@@ -6,7 +6,7 @@
 
 BCA student building useful software through **ARNXO**, with a focus on reliable web products, thoughtful user experiences, and secure application architecture.
 
-[Portfolio](https://arnxo.pages.dev) · [Projects](https://arnxo.pages.dev/products) · [Contact](https://arnxo.pages.dev/contact) · [Open-source activity](https://github.com/ashuk422993-dotcom?tab=pullrequests)
+[Portfolio](https://arnxo.pages.dev) · [Projects](https://arnxo.pages.dev/products) · [Contact](https://arnxo.pages.dev/contact) · [Open-source activity](https://github.com/ashukumar-tech?tab=pullrequests)
 
 </div>
 
@@ -57,6 +57,6 @@ I try to prioritize **clear requirements, reproducible issues, testable changes,
 
 <div align="center">
 
-**Explore more:** [ARNXO](https://arnxo.pages.dev) · [GitHub repositories](https://github.com/ashuk422993-dotcom?tab=repositories) · [Get in touch](https://arnxo.pages.dev/contact)
+**Explore more:** [ARNXO](https://arnxo.pages.dev) · [GitHub repositories](https://github.com/ashukumar-tech?tab=repositories) · [Get in touch](https://arnxo.pages.dev/contact)
 
 </div>
