@@ -20,7 +20,7 @@ Focused on thoughtful engineering, useful products, and continuous learning.
 - 🎓 Studying BCA and strengthening programming, computer science, and mathematics fundamentals.
 - 🔐 Learning cybersecurity and application security.
 - 🧩 Interested in software products, automation, cloud platforms, and AI-assisted workflows.
-- 🛠️ I aim to document what is built accurately and distinguish active work from ideas and experiments.
+- 🛠️ I aim to document what is built accurately and distinguish tested functionality from experimental work.
 
 ## Current projects
 
@@ -28,10 +28,8 @@ Focused on thoughtful engineering, useful products, and continuous learning.
 | :--- | :--- | :--- |
 | **ARNZO** | My technology brand for building digital products, software, and web experiences. | Brand and new projects in development |
 | **Keystone Estates** | A Delhi-NCR real estate advisory website and digital platform. | Website published; ongoing project work |
-| **Veloce Digital** | A planned digital publishing and technology venture, with a focus on selected content properties and future software/app development. | Planning and setup |
 
 - [Keystone Estates website](https://keystone-estates-efm.pages.dev)
-- Veloce Digital — website and official links will be added when launched.
 
 ## Technical toolkit
 
