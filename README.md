@@ -1,13 +1,14 @@
 <div align="center">
 
-# Hi, I'm Ashu Kumar 👋
+# Hi, I'm Ashu Kumar
 
-### Software Developer | BCA Student | Cybersecurity Learner
+### Software Developer · BCA Student · Cybersecurity Learner
 
-I build practical web applications and developer tools through **ARNXO**.
-My focus is on **reliable software, clean user experiences, and secure-by-design engineering**.
+I build practical digital products and web experiences, and I’m growing **ARNZO** as my long-term technology brand.
 
-[**ARNXO Website**](https://arnxo.pages.dev) · [**Explore Products**](https://arnxo.pages.dev/products) · [**Open-Source Work**](https://github.com/ashukumar-tech?tab=pullrequests) · [**Contact**](https://arnxo.pages.dev/contact)
+Focused on thoughtful engineering, useful products, and continuous learning.
+
+[GitHub](https://github.com/ashukumar-tech) · [Portfolio](https://ashu-kumar.pages.dev)
 
 </div>
 
@@ -15,47 +16,47 @@ My focus is on **reliable software, clean user experiences, and secure-by-design
 
 ## About me
 
-- 💻 **Development:** Building web applications, dashboards, cloud-connected products, and developer automation.
-- 🎓 **Education:** BCA student strengthening programming, computer science, and mathematics fundamentals.
-- 🔐 **Security:** Learning cybersecurity and application-security principles; applying safe authentication, access controls, and secret-handling practices where relevant.
-- 🛠️ **Approach:** Build, test, document, review, and improve. I clearly distinguish tested functionality from experimental work.
+- 💻 Building websites, web applications, dashboards, and developer tools.
+- 🎓 Studying BCA and strengthening programming, computer science, and mathematics fundamentals.
+- 🔐 Learning cybersecurity and application security.
+- 🧩 Interested in software products, automation, cloud platforms, and AI-assisted workflows.
+- 🛠️ I aim to document what is built accurately and distinguish active work from ideas and experiments.
 
-> I am a software developer who is learning cybersecurity—not claiming a professional security certification or role.
+## Current projects
 
-## Featured work
-
-| Project | Overview | Link |
+| Project | What it is | Status |
 | :--- | :--- | :--- |
-| **ARNXO** | My software/product brand for web experiences, apps, and automation. | [Website ↗](https://arnxo.pages.dev) |
-| **ARNXO Dine** | Restaurant QR-menu and ordering product with restaurant management workflows. | [Product ↗](https://arnxo-dine.pages.dev) |
-| **ARNXO Pocket** | Local-first personal finance app project with budgeting, reminders, exports, and optional cloud sync. | [Product website ↗](https://arnxo-pocket.pages.dev) |
+| **ARNZO** | My technology brand for building digital products, software, and web experiences. | Brand and new projects in development |
+| **Keystone Estates** | A Delhi-NCR real estate advisory website and digital platform. | Website published; ongoing project work |
+| **Veloce Digital** | A planned digital publishing and technology venture, with a focus on selected content properties and future software/app development. | Planning and setup |
 
-**Source availability:** Some ARNXO and client repositories are private. Linked product websites are not an indication that the underlying source code is publicly available or licensed for reuse.
+- [Keystone Estates website](https://keystone-estates-efm.pages.dev)
+- Veloce Digital — website and official links will be added when launched.
 
 ## Technical toolkit
 
-| Area | Technologies and tools |
+| Area | Technologies |
 | :--- | :--- |
 | **Languages** | JavaScript, TypeScript; studying C and Python |
 | **Frontend** | React, Next.js, Vite, HTML, CSS |
 | **Backend & databases** | Node.js, REST APIs, Supabase, Firebase |
 | **Cloud & tooling** | Cloudflare Pages / Workers, Git, GitHub Actions, VS Code |
-| **Engineering practices** | Testing, code review, access-control design, environment configuration, and secret hygiene |
+| **Currently learning** | C programming, computer science fundamentals, cybersecurity |
 
-These reflect technologies used in projects and current areas of study—not a claim of expert-level proficiency in every tool.
+This list reflects tools I have used or am learning; it is not a claim of expert-level proficiency in every technology.
 
 ## Open-source contributions
 
-I contribute documentation, fixes, and technical feedback to [**REA — Reverse Engineer Anything**](https://github.com/morluto/rea).
+I contribute documentation, fixes, and technical feedback to [REA — Reverse Engineer Anything](https://github.com/morluto/rea).
 
-- [**PR #5065** — Improve macOS process-capture test reliability](https://github.com/morluto/rea/pull/5065)
-- [**PR #5067** — Improve Gemini CLI troubleshooting guidance](https://github.com/morluto/rea/pull/5067)
+- [PR #5065 — Improve macOS process-capture test reliability](https://github.com/morluto/rea/pull/5065)
+- [PR #5067 — Improve Gemini CLI troubleshooting guidance](https://github.com/morluto/rea/pull/5067)
 
-These are submitted contributions; check each PR for its current review and merge status.
+These are submitted contributions. Check each pull request for its current review and merge status.
 
-## What I'm focused on
+## Current focus
 
-**Building useful software** · **Strengthening BCA fundamentals** · **Learning application security** · **Contributing to open source**
+**Building ARNZO** · **Developing useful web products** · **Strengthening BCA fundamentals** · **Learning application security** · **Contributing to open source**
 
 ---
 
@@ -63,8 +64,8 @@ These are submitted contributions; check each PR for its current review and merg
 
 ### Connect
 
-[**GitHub**](https://github.com/ashukumar-tech) · [**ARNXO**](https://arnxo.pages.dev) · [**Contact**](https://arnxo.pages.dev/contact)
+[GitHub](https://github.com/ashukumar-tech) · [Portfolio](https://ashu-kumar.pages.dev)
 
-*Learning continuously. Shipping thoughtfully.*
+*Learning continuously. Building deliberately.*
 
 </div>
