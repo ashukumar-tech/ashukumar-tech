@@ -31,6 +31,16 @@ Focused on thoughtful engineering, useful products, and continuous learning.
 
 - [Keystone Estates website](https://keystone-estates-efm.pages.dev)
 
+## Completed projects
+
+| Project | What it is | Highlights |
+| :--- | :--- | :--- |
+| **SGS Fee Portal — Sanskar Gurukulam** | A mobile-friendly school fee-management portal/PWA. | Role-based Admin, Employee, and Parent workflows; fee records, payment tracking, receipts, parent dashboard, due reminders, and reporting foundations. |
+| **Personal Portfolio — Ashu Kumar Pandey** | My personal portfolio website. | Presents my profile, skills, projects, and development work. |
+
+- [SGS Fee Portal repository](https://github.com/ashukumar-tech/sgs-fee-portal)
+- [Personal portfolio website](https://ashu-kumar.pages.dev)
+
 ## Technical toolkit
 
 | Area | Technologies |
